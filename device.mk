@@ -217,10 +217,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     fastbootd
 
-# FM
-PRODUCT_PACKAGES += \
-    FM2 \
-    qcom.fmradio
+
 
 # Gatekeeper
 PRODUCT_PACKAGES += \
